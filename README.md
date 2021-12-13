@@ -1,2 +1,6 @@
-# test-framework-superheroes
-Simple test framework for API superheroes
+### Simple testing framework for API superheroes
+
+- use of fixtures and helpers
+- requests to API and data processing
+
+link: https://www.superheroapi.com/
